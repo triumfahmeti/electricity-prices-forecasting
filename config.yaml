@@ -1,0 +1,5 @@
+ENERGY_CHARTS:
+  URL: "https://api.energy-charts.info"
+  PRICE_ENDPOINT: "/price"
+  PUBLIC_POWER_ENDPOINT: "/public_power"
+  timeout_seconds: 30
